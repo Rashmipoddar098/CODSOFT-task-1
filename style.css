@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color:black;
+}
+#navbar{
+    width: 700px;
+    position: relative;
+    left: 700px;
+    top: 10px;
+}
+
+a{
+    margin-right: 50px;
+}
+#photo{
+    height: 300px;
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 80%;
+    position: relative;
+    top: 100px;
+    left: 1000px;
+    background-image: url("IMG_20221222_105810.jpg");
+    background-size: cover;
+}
+h1{
+    position: relative;
+    top: 150px;
+    left:200px ;
+    font-family:cursive;
+    color: darkred;
+}
+p{
+    position: relative;
+    left: 200px;
+    bottom: 130px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 25px;
+}
+button{
+    position: relative;
+    left: 200px;
+    bottom: 50px;
+    font-size:larger;
+    background-color:darkcyan;
+    color: antiquewhite;
+}
+#skill{
+    height: 50px;
+    width: 700px;
+    border: 2px solid black;
+    position: relative;
+    left: 500px;
+    top: 50px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    background-color:darkmagenta;
+    color:antiquewhite;
+}
+#image{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: 250px;
+    left: 50px;
+    background-image: url("skills_photo.jpeg");
+    background-size: cover;
+}
+#c{
+    height:70px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 35px;
+    position: relative;
+    left: 700px;
+    bottom: 150px;
+    text-align: center;
+    background-color:pink;
+
+}
+#oops{
+    height:70px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 35px;
+    position: relative;
+    left:700px ;
+    bottom: 150px;
+    text-align: center;
+    background-color:pink;
+    margin-top: 20px;
+
+}
+#java{
+    height:70px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 35px;
+    position: relative;
+    left:700px ;
+    bottom: 150px;
+    text-align: center;
+    background-color:pink;
+    margin-top: 20px;
+}
+#html{
+    height:70px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 35px;
+    position: relative;
+    left:700px ;
+    bottom: 150px;
+    text-align: center;
+    background-color:pink;
+    margin-top: 20px;
+}
+#css{
+    height:70px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 35px;
+    position: relative;
+    left:700px ;
+    bottom: 150px;
+    text-align: center;
+    background-color:pink;
+    margin-top: 20px;
+}
+#javascript{
+    height:70px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 35px;
+    position: relative;
+    left:700px ;
+    bottom: 150px;
+    text-align: center;
+    background-color:pink;
+    margin-top: 20px;
+}
+#project{
+    height: 50px;
+    width: 700px;
+    border: 2px solid black;
+    position: relative;
+    left: 100px;
+    top: 50px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    background-color:maroon;
+    color:antiquewhite;
+}
+#projectimage{
+    height: 300px;
+    width: 400px;
+    background-image: url("project_image.jpeg");
+    background-size: cover;
+    position: relative;
+    top: 90px;
+    left: 1000px;
+}
+#amazon{
+    height: 100px;
+    width: 500px;
+    border:2px solid black;
+    border-radius: 40px;
+    text-align: center;
+    font-size: xx-large;
+    position: relative;
+    left: 170px;
+    bottom: 150px;
+    background-color: lightblue;
+    margin-bottom: 20px;
+}
+#box1{
+    position: relative;
+    top: 10px;
+    text-align: center;
+    left: 5px;
+    font-size:medium;
+    background-color: darkorchid;
+}
+#zomato{
+    height: 100px;
+    width: 500px;
+    border:2px solid black;
+    border-radius: 40px;
+    text-align: center;
+    font-size: xx-large;
+    position: relative;
+    left: 170px;
+    bottom: 150px;
+    background-color: lightblue; 
+}
+#box2{
+    position: relative;
+    top: 10px;
+    text-align: center;
+    left: 5px;
+    font-size:medium;
+    background-color: darkorchid;
+}
+
+#box3{
+    height:150px;
+    width:1300px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 5px;
+    top: 20px;
+    left: 80px;
+    background-color:rgb(98, 212, 212);
+    text-align: left;
+    font-size: large;
+
+}
+
+footer{
+    height: 200px;
+    width: 1450px;
+    border: 2px solid black;
+    position: relative;
+    top: 200px;
+    right: 170px;
+   background-color:aliceblue;
+}
+
+
